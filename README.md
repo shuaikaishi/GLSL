@@ -9,7 +9,7 @@ The code in this toolbox implements the "Electrical Impedance Tomography Image R
 ## Contact Information:
 If you encounter any bugs while using this code, please do not hesitate to contact us.
 ```
-@INPROCEEDINGS{10784665,
+@INPROCEEDINGS{shi2024electrical,
   author={Shi, Shuaikai and Liatsis, Panos},
   booktitle={2024 7th International Conference on Power and Energy Applications (ICPEA)}, 
   title={Electrical Impedance Tomography Image Reconstruction Based on Graph Laplacian and Sparse Learning}, 
