@@ -4,10 +4,6 @@ The code in this toolbox implements the "Electrical Impedance Tomography Image R
 
 ## Citation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
-
-
-## Contact Information:
-If you encounter any bugs while using this code, please do not hesitate to contact us.
 ```
 @INPROCEEDINGS{shi2024electrical,
   author={Shi, Shuaikai and Liatsis, Panos},
@@ -19,4 +15,8 @@ If you encounter any bugs while using this code, please do not hesitate to conta
   pages={67-71},
   doi={10.1109/ICPEA63589.2024.10784665}}
 ```
+
+## Contact Information:
+If you encounter any bugs while using this code, please do not hesitate to contact us.
+
 Shuaikai Shi [shuaikai.shi@ku.ac.ae]
